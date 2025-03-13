@@ -21,22 +21,6 @@ Results-driven **Data Analyst** specializing in **data architecture**, **cloud s
 
 ---
 
-### 💼 Professional Achievement  
-
-- 🚀 Redesigned ETL workflows with SSIS/Python, **reducing data processing time by 30%** and saving **$90K annually**.  
-- 🏗️ Architected SQL Server data warehouses integrated with Power BI for real-time analytics.  
-- 📊 Developed executive dashboards that **boosted operational efficiency by 15%**.  
-- 🤖 Automated data pipelines using DevOps, **cutting deployment time by 25%**.  
-
-- 🔍 Built SQL reporting solutions and predictive models, **improving forecasting accuracy by 30%**.  
-- ☁️ Migrated analytics to Azure/Power BI, automating reporting workflows.  
-- ⚡ Optimized ETL processes, **reducing manual data handling by 50%**.  
-
-- 🧹 Automated data preprocessing with Python scripts, **saving 20% manual effort**.  
-- 🛠️ Maintained databases and generated reports for dairy station management.  
-
----
-
 ### 🎓 Credentials  
 
 - **Certifications**  
