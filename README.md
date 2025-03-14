@@ -30,7 +30,7 @@ Results-driven **Data Analyst** specializing in **data architecture**, **cloud s
 ---
 
 ### 📬 Let's Connect  
-- 📧 Email: [d510622169@gmail.com](mailto:d510622169@gmail.com)  
+- 📧 Email: [d510622169@gmail.com](mailto:maxyfdu@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/max-du-55a7b9204](https://www.linkedin.com/in/max-du-55a7b9204)  
 
 ---
